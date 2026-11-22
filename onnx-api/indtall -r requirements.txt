@@ -1,3 +1,4 @@
+pillow
 fastapi==0.115.6
 uvicorn[standard]==0.34.0
 onnxruntime==1.20.1
